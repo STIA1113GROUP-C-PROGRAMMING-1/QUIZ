@@ -1,0 +1,59 @@
+1.b
+2.c
+3.d
+4.publlic class quiz{
+    public static void main Stirng[] args){
+    
+       int num1=5;
+       int num2=20;
+       
+       int sum = num1 + num2;
+       System.out.println("The sum is " + sum);
+       }
+}
+5. public static void main(String[] args)
+6. a
+7. b
+8. a,c,f
+9. c
+10.c
+11.d
+12. i. int a,b
+    ii. int x = 10; char ch = ‘y’;
+    iii.	double payRate = 12.50;
+     iv.	boolean ans = true; ___
+13. 
+i.	3
+ii.	5
+iii.	1
+iv.	-2
+v.	4.25
+vi.	-2.0
+vii.	12
+viii.	16.0
+14. 
+a = 20
+B = 15
+C = 6
+X = 11.5
+Y = 4.5
+15. 22
+16. 
+i.	x *= 2;
+ii.	x += y – 2;
+iii.	sum += num;
+iv.	y /= (x+5)
+17. {
+    public static void main(String[] args)
+    {
+        System.out.println(“Programming is fun”);
+    }
+}
+18. 
+class FixProgram
+{
+    public static void main(String[] args)
+    {
+        System.out.println(“Hello World!”); 
+    }
+}
